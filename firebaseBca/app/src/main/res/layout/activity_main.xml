@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem1"
+        android:layout_marginTop="10dp"
+        >
+
+        <TextView
+            android:id="@+id/textSem1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 1"
+            android:textAlignment="center"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem2"
+        android:layout_marginTop="10dp"
+
+        >
+
+        <TextView
+            android:id="@+id/textSem2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 2"
+            android:textAlignment="center"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem3"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textSem3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 3"
+            android:textAlignment="center"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem4"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textSem4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 4"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem5"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textSem5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 5"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linerSem6"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textSem6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 6"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
