@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         sem6 = findViewById(R.id.textSem6);
 
 
-    // this is shabaj anasari testing git
+    // this is shabaj anasari testing git 2
 
         sem1.setOnClickListener(new View.OnClickListener() {
             @Override
